@@ -1,5 +1,5 @@
 <h1 align="left">👋 Olá, mundo!</h1>
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-programacao_114360-1351.jpg?size=626&ext=jpg&ga=GA1.2.116125203.1687890758&semt=ais" width="350px" align="right">
+<img src="https://github.com/joaocmellus/joaocmellus/assets/95262089/b4248798-1dfb-437f-bb4e-68b966416746" width="350px" align="right">
 <ul align="left">
   <li>👦 Meu nome é João Caetano de Mello, tenho 18 anos.</li>
   <li>🏠 Moro em Novo Hamburgo, RS.</li>
